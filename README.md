@@ -36,11 +36,8 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 2. Create a new branch for your changes.
 3. Submit a pull request with a detailed explanation of your changes.
 
-## License
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project, but please give appropriate credit to the original authors.
-
 ## Contact
-If you have any questions or need support, please open an issue on GitHub or contact the project maintainer at [your_email@example.com].
+If you have any questions or need support, please open an issue on GitHub or contact the project maintainer at [yousef.yy4u@gmail.com].
 
 
 
